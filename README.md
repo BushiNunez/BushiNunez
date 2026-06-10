@@ -35,17 +35,6 @@
 | **Sistema Contable (MVP)** | Desarrollo de un Producto Mínimo Viable para la gestión y registro contable, enfocado en escalabilidad de datos y alto rendimiento. | `Docker`, `Prisma`, `PostgreSQL` |
 | **Street Python Fighter** | Diseño y desarrollo de un juego de combate. Una aplicación práctica de la Programación Orientada a Objetos (POO) y lógica de colisiones. | `Python` |
 
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radium&hide_border=true" alt="Lenguajes Top" width="48%" />
-</p>
-
----
-
 ## 📫 Cómo contactarme
 
 <p align="center">
