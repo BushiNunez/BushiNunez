@@ -36,9 +36,8 @@
 | **Street Python Fighter** | Diseño y desarrollo de un juego de combate. Una aplicación práctica de la Programación Orientada a Objetos (POO) y lógica de colisiones. | `Python` |
 
 ## :zap: Actividad Reciente 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ## 📫 Cómo contactarme
 
