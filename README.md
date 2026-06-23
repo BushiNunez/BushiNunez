@@ -35,10 +35,15 @@
 | **Sistema Contable (MVP)** | Desarrollo de un Producto Mínimo Viable para la gestión y registro contable, enfocado en escalabilidad de datos y alto rendimiento. | `Docker`, `Prisma`, `PostgreSQL` |
 | **Street Python Fighter** | Diseño y desarrollo de un juego de combate. Una aplicación práctica de la Programación Orientada a Objetos (POO) y lógica de colisiones. | `Python` |
 
+## :zap: Actividad Reciente 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## 📫 Cómo contactarme
 
 <p align="center">
-  <a href="www.linkedin.com/in/andre-nuñez-819a70379" target="_blank">
+  <a href="https://www.linkedin.com/in/andre-nu%C3%B1ez-819a70379/?skipRedirect=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:bushido69nunez@gmail.com">
