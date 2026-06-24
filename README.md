@@ -37,11 +37,11 @@
 
 ## :zap: Actividad Reciente 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BushiNunez/miCuarteRepo](https://github.com/BushiNunez/miCuarteRepo)<br>
-2. ⬆️ Pushed undefined commit(s) to [BushiNunez/BushiNunez](https://github.com/BushiNunez/BushiNunez)<br>
-3. ⬆️ Pushed undefined commit(s) to [BushiNunez/BushiNunez](https://github.com/BushiNunez/BushiNunez)<br>
-4. ⬆️ Pushed undefined commit(s) to [BushiNunez/BushiNunez](https://github.com/BushiNunez/BushiNunez)<br>
-5. ⬆️ Pushed undefined commit(s) to [BushiNunez/BushiNunez](https://github.com/BushiNunez/BushiNunez)<br>
+1. ⬆️ Pushed undefined commit(s) to [BushiNunez/paquetePip](https://github.com/BushiNunez/paquetePip)<br>
+2. ⬆️ Pushed undefined commit(s) to [BushiNunez/miCuarteRepo](https://github.com/BushiNunez/miCuarteRepo)<br>
+3. 💪 Opened PR [#3](undefined) in [BushiNunez/miCuarteRepo](https://github.com/BushiNunez/miCuarteRepo)<br>
+4. ⬆️ Pushed undefined commit(s) to [BushiNunez/miCuarteRepo](https://github.com/BushiNunez/miCuarteRepo)<br>
+5. ⬆️ Pushed undefined commit(s) to [BushiNunez/miCuarteRepo](https://github.com/BushiNunez/miCuarteRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Cómo contactarme
