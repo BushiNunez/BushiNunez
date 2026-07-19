@@ -37,11 +37,11 @@
 
 ## :zap: Actividad Reciente 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BushiNunez/curso-python-pip](https://github.com/BushiNunez/curso-python-pip)<br>
+1. ⭐ Starred [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset)<br>
 2. ⬆️ Pushed undefined commit(s) to [BushiNunez/curso-python-pip](https://github.com/BushiNunez/curso-python-pip)<br>
 3. ⬆️ Pushed undefined commit(s) to [BushiNunez/curso-python-pip](https://github.com/BushiNunez/curso-python-pip)<br>
-4. ✔️ Closed issue [#1](https://github.com/BushiNunez/miCuarteRepo/issues/1) in [BushiNunez/miCuarteRepo](https://github.com/BushiNunez/miCuarteRepo)<br>
-5. ⬆️ Pushed undefined commit(s) to [BushiNunez/curso-python-pip](https://github.com/BushiNunez/curso-python-pip)<br>
+4. ⬆️ Pushed undefined commit(s) to [BushiNunez/curso-python-pip](https://github.com/BushiNunez/curso-python-pip)<br>
+5. ✔️ Closed issue [#1](https://github.com/BushiNunez/miCuarteRepo/issues/1) in [BushiNunez/miCuarteRepo](https://github.com/BushiNunez/miCuarteRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Cómo contactarme
