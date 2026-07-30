@@ -39,8 +39,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset)<br>
 2. ⬆️ Pushed undefined commit(s) to [BushiNunez/curso-python-pip](https://github.com/BushiNunez/curso-python-pip)<br>
-3. ⬆️ Pushed undefined commit(s) to [BushiNunez/curso-python-pip](https://github.com/BushiNunez/curso-python-pip)<br>
-4. ⬆️ Pushed undefined commit(s) to [BushiNunez/curso-python-pip](https://github.com/BushiNunez/curso-python-pip)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Cómo contactarme
