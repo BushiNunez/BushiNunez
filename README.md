@@ -37,7 +37,6 @@
 
 ## :zap: Actividad Reciente 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Cómo contactarme
